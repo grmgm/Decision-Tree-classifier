@@ -19,6 +19,6 @@ More details can be found here: http://archive.ics.uci.edu/ml/datasets/Forest+ty
 
 ## Result and code
 
-Please see code [here](https://github.com/mingge612/KNN/blob/main/KNN.ipynb) for details.
+Please see code [here](https://github.com/mingge612/Decision-Tree-classifier/blob/main/decisionTree.ipynb) for details.
 
 
